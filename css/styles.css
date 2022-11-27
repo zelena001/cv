@@ -1,0 +1,25 @@
+body {
+    background-color: #D6E4E5;
+}
+hr {
+    width: 60px;
+    border-style: dotted none none none;
+    border-width: 7px;
+    border-color: goldenrod;
+}
+h1 {
+    color: #66bfbf;
+    text-align: center;
+}
+h3 {
+    color: #66bfbf;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img:hover {
+    background-color: gold;
+}
